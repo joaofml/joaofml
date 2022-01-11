@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DOTNET technology.
 - 💞️ I’m looking to collaborate on whatever I'm able to.
 - 📫 How to reach me dproj.joao@gmail.com
+- First push with git :)
 
 <!---
 joaofml/joaofml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
