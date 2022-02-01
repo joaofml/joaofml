@@ -1,12 +1,5 @@
-- 👋 Hi, I’m João
-- 👀 I’m interested in technology in general. Yet to find my specific area of interest.
-- Currently learning dotnet, reactjs.
-- 🌱 I’m currently learning DOTNET technology.
-- 💞️ I’m looking to collaborate on whatever I'm able to.
-- 📫 How to reach me dproj.joao@gmail.com
+# Welcome ! 
 
-
-<!---
-joaofml/joaofml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My name is João, and I am a new adventurer in the development world 🙋.
+- Currently learning C# dotnet.
+- Already familiar with the basics of backend javaScript: node, Express, postgreSQL, mongoDB and Rest api's.
